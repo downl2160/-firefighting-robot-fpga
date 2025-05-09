@@ -65,7 +65,7 @@ A 25–28 kg tracked robot that autonomously detects, verifies, and extinguishes
 
 ---
 
-## 🗂️ Repository Structure  
+🗂️ Repository Structure  
 
 firefighting-robot-public/
 ├── media/
