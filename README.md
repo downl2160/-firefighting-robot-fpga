@@ -65,7 +65,7 @@ A 25–28 kg tracked robot that autonomously detects, verifies, and extinguishes
 
 ---
 
-🗂️ Repository Structure  
+## 🗂️ Repository Structure  
 
 firefighting-robot-public/
 ├── media/
@@ -74,14 +74,14 @@ firefighting-robot-public/
 │ └── demo-video.mp4 # Unlisted YouTube demo
 │
 ├── Certificates/
-│ ├── Journal_Abstract.pdf # Redacted paper abstract / certificate
+│ ├── Journal_Abstract.pdf # Paper abstract or certificate
 │ └── Awards.pdf # Showcase/competition certificate
 │
 ├── Overview/
 │ ├── Project_Summary.md # Problem statement, objectives, impact
 │ └── Key_Features.md # High-level bullet points
 │
-└── README.md # Main project overview (this file)
+└── README.md # This file
 
 
 > ⚠️ **Note**: Source code, detailed schematics and raw data are kept private to protect intellectual property. Recruiters may request access on demand.  
