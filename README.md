@@ -35,7 +35,7 @@ Prototype-1 achieved over **95% accuracy** in lab fire-detection tests.
 
 ## 📐 Robot Blueprint  
 
-![Robot Blueprint](https://youtu.be/ni_lA1goh8M)  
+![Robot Blueprint](media/model_blueprint.png)  
 
 > **Figure 2:** Front and side blueprint of the robot chassis (dimensions in cm).
 
@@ -67,7 +67,7 @@ Prototype-1 achieved over **95% accuracy** in lab fire-detection tests.
 
 ## 🎬 Demo Video  
 
-[![Watch the Demo](media/demo-video.mp4)  
+[![Watch the Demo](https://youtu.be/ni_lA1goh8M)  
 *Unlisted demo of Prototype-1 in action*
 
 ---
