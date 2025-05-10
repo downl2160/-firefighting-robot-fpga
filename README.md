@@ -33,6 +33,14 @@ Prototype-1 achieved over **95% accuracy** in lab fire-detection tests.
 
 ---
 
+## 📐 Robot Blueprint  
+
+![Robot Blueprint](media/robot_blueprint.png)  
+
+> **Figure 2:** Front and side blueprint of the robot chassis (dimensions in cm).
+
+---
+
 ## 🛠️ Key Components & Innovations  
 
 - **AI-Based Fire Confirmation**  
