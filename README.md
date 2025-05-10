@@ -67,7 +67,7 @@ Prototype-1 achieved over **95% accuracy** in lab fire-detection tests.
 
 ## 🎬 Demo Video  
 
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)  
+[![Watch the Demo](media/demo-video.mp4)  
 *Unlisted demo of Prototype-1 in action*
 
 ---
