@@ -74,11 +74,14 @@ Prototype-1 achieved over **95% accuracy** in lab fire-detection tests.
 
 ## 🏅 Certifications & Publication  
 
-- 📰 **Journal Publication**:  
-  *Siddharth Singh, et al. “Designing and Prototyping of an Autonomous Fire Fighting Vehicle,” International Journal for Multidisciplinary Research (IJFMR), Vol. 6, Issue 6, Nov–Dec 2024.*  
-  → [Download Research Paper (PDF)](Certificates/Autonomous_Firefighting_Robot_Siddharth_Singh_IJFMR2024.pdf)
+- 📰 **Published Research Paper**  
+  *Siddharth Singh, Achyut Pandey, Harsh Vardhan Nilaratna, Manik Gurjar.  
+  “Designing and Prototyping of an Autonomous Fire Fighting Vehicle”  
+  International Journal for Multidisciplinary Research (IJFMR), Vol. 6, Issue 6, Nov–Dec 2024.*  
+  👉 [Download Full Paper (PDF)](Certificates/Autonomous_Firefighting_Robot_Siddharth_Singh_IJFMR2024.pdf)
 
-- 🏆 **Award**: Winner at University Innovation Showcase (2024)
+- 🏆 **Certificate of Publication**  
+  ![Certificate](Certificates/Siddharth_Singh_IJFMR_Certificate.jpg)
 
 ---
 
