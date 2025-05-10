@@ -72,11 +72,13 @@ Prototype-1 achieved over **95% accuracy** in lab fire-detection tests.
 
 ---
 
-## 🏅 Certifications & Awards  
+## 🏅 Certifications & Publication  
 
-- 📰 **Journal Publication**: *International Journal of Multidisciplinary Research*  
-  - [Abstract PDF](Certificates/Journal_Abstract.pdf)  
-- 🏆 **Award**: Winner at University Innovation Showcase  
+- 📰 **Journal Publication**:  
+  *Siddharth Singh, et al. “Designing and Prototyping of an Autonomous Fire Fighting Vehicle,” International Journal for Multidisciplinary Research (IJFMR), Vol. 6, Issue 6, Nov–Dec 2024.*  
+  → [Download Research Paper (PDF)](Certificates/Autonomous_Firefighting_Robot_Siddharth_Singh_IJFMR2024.pdf)
+
+- 🏆 **Award**: Winner at University Innovation Showcase (2024)
 
 ---
 
