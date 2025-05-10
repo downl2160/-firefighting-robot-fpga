@@ -114,4 +114,19 @@ firefighting-robot-public/
 │
 └── README.md                      # This file
 
+---
+
+## 👥 Contributors  
+
+This project was developed by a four-member team as part of our final year engineering project.  
+
+- **Siddharth Singh** – Embedded Systems, AI Integration (FPGA & Sensors), Testing, and GitHub Repository  
+- Achyut Pandey – Mechanical Design, Frame & Mobility System  
+- Harsh Vardhan Nilaratna – Documentation, Research Paper, Safety Analysis  
+- Manik Gurjar – IoT Integration (Blynk), Sensor Calibration, Troubleshooting  
+
+> 📌 The GitHub repository was created and maintained by **Siddharth Singh** to publicly showcase the team’s work.
+
+---
+
 > ⚠️ **Note**: Source code, detailed schematics and raw data are kept private to protect intellectual property. Recruiters may request access on demand.  
