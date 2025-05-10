@@ -102,8 +102,8 @@ firefighting-robot-public/
 │   └── demo-video.mp4             # Unlisted YouTube demo
 │
 ├── Certificates/
-│   ├── Journal_Abstract.pdf       # Redacted paper abstract / certificate
-│   └── Awards.pdf                 # Showcase/competition certificate
+│   ├── Siddharth_Singh_IJFMR_Certificate.jpg
+│   └── Autonomous_Firefighting_Robot_Siddharth_Singh_IJFMR2024.pdf
 │
 ├── Overview/
 │   ├── Project_Summary.md         # Problem statement, objectives, impact
